@@ -1,1 +1,1 @@
-print(",".join(f"A{num:03d}" for num in range(21, 41)))
+print(",".join(f"A{num:03d}" for num in range(61, 81)))
